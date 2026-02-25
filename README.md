@@ -1,13 +1,13 @@
 # Hi there, I'm David Love Adei 👋
 
-**Ph.D. Candidate · Cryptographic Technologist & Protocol Architect · Open Source Developer**
+**Ph.D. Candidate · Research Engineer · Cryptographic Technologist & Protocol Architect · Open Source Developer**
 
 ---
 
-I'm a Ph.D. candidate in Computer Science at North Carolina State University, specializing in applied cryptography, privacy-preserving protocols, and identity/authentication systems for real-world applications.
+I'm a Ph.D. candidate in Computer Science at North Carolina State University, specializing in designing secure and reliable systems, applied cryptography, and identity/authentication systems for real-world applications.
 
-- 🔒  **Research:** Cryptography, group signatures, privacy, verifiable OPRF, witness encryption, secure protocols, identity, and authentication for telephony and cloud.
-- 🛠️  **Languages:** Go, C++, Python, Java
+- 🔒  **Research:** Distributed Systems, Network Security, privacy, secure protocols, identity, and authentication for telephony and cloud.
+- 🛠️  **Languages:** Python, Javascript/Typescript, Go, C++, Java.
 - 💡  **Projects:** Building high-performance cryptographic libraries for practical use, such as BBS04 group signatures, witness encryption, and blockchain-based key recovery.
 - 📝  **Publications:** Visit [my publications](https://david.adei.love/publications/)
 
@@ -25,10 +25,11 @@ I'm a Ph.D. candidate in Computer Science at North Carolina State University, sp
   - Ph.D. Computer Science, North Carolina State University
 
   **Research Interests**
-  - Systems security, Applied cryptography, Privacy Preserving technologies, Distributed Systems, Software Engineering.
+  - Systems security, Distributed Systems, Software Engineering, Applied cryptography, Privacy Preserving technologies.
 
   **Selected Publications**
   - ACM CCS 2025: How to Recover a Cryptographic Secret from the Cloud
+  - IEEE ICBC 2025: Towards Declarative Blockchains: A SHACL-Based Model for Robust and Efficient Transactions
   - ACM CCS 2024: Jäger: Automated Telephone Call Traceback (**Distinguished Paper Award** and **Distinguished Artifact Award**)
   - [List all at](https://david.adei.love/publications/)
 
