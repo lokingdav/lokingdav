@@ -34,7 +34,7 @@ I'm a Ph.D. candidate in Computer Science at North Carolina State University, sp
   - [List all at](https://david.adei.love/publications/)
 
   **Professional Skills**
-  - Languages: Go, C++, Python, Java
+  - Languages: Python, Javascript/Typescript, Go, C++, Java
   - Tools: Git, Docker, AWS, LaTeX
 
   **Selected Projects**
